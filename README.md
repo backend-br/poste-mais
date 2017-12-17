@@ -11,7 +11,7 @@ Sinta-se livre para escrever a respeito de uma tecnologia que você domina e col
 Aconselha-se que o post seja escrito da **melhor** maneira possivel e de fácil entendimento para uma boa absorção e aprendizado, que é o nosso objetivo.
 
 # Contribuindo
-Abra uma **issue**, coloque o no do TEMA entre colchetes seguido do assunto.
+Abra uma **issue**, coloque o nome do TEMA entre colchetes seguido do assunto.
 
 Exemplo: `[JavaScript] API-RESTful`
 
