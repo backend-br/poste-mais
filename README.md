@@ -15,7 +15,7 @@ Abra uma **issue**, coloque o nome do TEMA entre colchetes seguido do assunto.
 
 Exemplo: `[JavaScript] API-RESTful`
 
-Informe quais _labels_ devemos adicionar, linguagem, frameworks e ferramentas.
+Informe quais _labels_ devemos adicionar, linguagem, frameworks e ferramentas. E se possivel faça uma breve descrição do artigo/post.
 
 **Atenção**: Não aceitaremos posts fora dos padrões requisitados.
 
