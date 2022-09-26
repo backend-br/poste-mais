@@ -1,34 +1,26 @@
+<!--suppress HtmlDeprecatedAttribute -->
+
 <p align="center">
-  <img src="https://avatars3.githubusercontent.com/u/30732658?v=4&s=200" alt="BackEnd Brasil" width="230" />
+  <img src="https://avatars3.githubusercontent.com/u/30732658?v=4&s=200.jpg" alt="BackEndBR" width="230" />
 </p>
 
+<div id='post'></div>
+
 ## Poste Mais
-Espaço destinado para divulgação de artigos nacionais relacionados ao desenvolvimento back-end com o objetivo de compartilhar conhecimento para toda a comunidade.
 
-Sinta-se livre para escrever a respeito de uma tecnologia que você domina e colabore com o crescimento do projeto. 
+Espaço destinado para divulgação de artigos nacionais relacionados ao desenvolvimento back-end para
+compartilhar conhecimento para toda a comunidade.
 
-### Importante
-Aconselha-se que o post seja escrito da **melhor** maneira possivel e de fácil entendimento para uma boa absorção e aprendizado, que é o nosso objetivo.
+Sinta-se livre para escrever a respeito de uma tecnologia que você domina e colabore com o crescimento do projeto.
 
-## Contribuindo
-Abra uma **issue**, coloque o nome do TEMA entre colchetes seguido do assunto.
-
-Exemplo: `[JavaScript] API-RESTful`
-
-Informe quais _labels_ devemos adicionar, linguagem, frameworks e ferramentas. E se possivel faça uma breve descrição do artigo/post.
-
-**Atenção**: Não aceitaremos posts fora dos padrões requisitados.
+<div id='license'></div>
 
 ## Licença
 
-MIT - BackEnd Brasil [LICENSE.md](LICENSE.md)
+Licenciado sob [MIT](LICENSE).
 
-## Repositórios do Back-End Brasil
+<div id='contributing'></div>
 
-- [Fórum](https://github.com/backend-br/forum)
-- [Eventos](https://github.com/backend-br/eventos)
-- [Vagas](https://github.com/backend-br/vagas)
-- [Colabore](https://github.com/backend-br/colabore)
-- [Poste mais!](https://github.com/backend-br/poste-mais)
-- [Awesome Back-End](https://github.com/backend-br/awesome-backend)
+## Contribuindo
 
+Siga as [diretrizes de contribuição](CONTRIBUTING.md) para contribuir com o projeto.
